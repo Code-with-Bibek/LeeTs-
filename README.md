@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
+| [0630-course-schedule-iii](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0630-course-schedule-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
+| [0630-course-schedule-iii](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0630-course-schedule-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0630-course-schedule-iii](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0630-course-schedule-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0630-course-schedule-iii](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0630-course-schedule-iii) |
 <!---LeetCode Topics End-->
