@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Code-with-Bibek/LeetCode-/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Code-with-Bibek/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Code-with-Bibek/LeetCode-/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
 |  |
 | ------- |
