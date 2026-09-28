@@ -55,15 +55,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0344-reverse-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Code-with-Bibek/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Code-with-Bibek/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Code-with-Bibek/LeetCode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
