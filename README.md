@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
 | [0630-course-schedule-iii](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0630-course-schedule-iii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Code-with-Bibek/LeetCode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2784-check-if-array-is-good) |
