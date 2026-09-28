@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
 | [0630-course-schedule-iii](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0630-course-schedule-iii) |
+| [2540-minimum-common-value](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0344-reverse-string) |
+| [2540-minimum-common-value](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
