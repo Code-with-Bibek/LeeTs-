@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
 | [0630-course-schedule-iii](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0630-course-schedule-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
+| [2784-check-if-array-is-good](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0268-missing-number) |
 | [0630-course-schedule-iii](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0630-course-schedule-iii) |
+| [2784-check-if-array-is-good](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
