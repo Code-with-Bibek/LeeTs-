@@ -95,14 +95,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 ## String Matching
 |  |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Code-with-Bibek/LeetCode-/tree/master/2553-separate-the-digits-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Code-with-Bibek/LeetCode-/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
